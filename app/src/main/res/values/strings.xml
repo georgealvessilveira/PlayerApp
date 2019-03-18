@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Player App</string>
     <string name="video_image">Imagem do vídeo</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="back">Back</string>
 </resources>
